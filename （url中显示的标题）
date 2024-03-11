@@ -40,70 +40,21 @@
 </header>
 
     <main>
-      <div class="mx-auto max-w-3xl"><ul class="flex items-center mt-4 py-8 border-b-2 border-dashed border-black">
-   
-  <li class="mr-4 w-6 h-6">
-    <a href="mailto:null" target="_blank" rel="noopener">
-      <img src="/icons/email.svg" alt="email" />
-    </a>
-  </li>
-   
-  <li class="mr-4 w-6 h-6">
-    <a href="" target="_blank" rel="noopener">
-      <img src="/icons/github.svg" alt="github" />
-    </a>
-  </li>
-   
-  <li class="mr-4 w-6 h-6">
-    <a href="" target="_blank" rel="noopener">
-      <img src="/icons/linkedin.svg" alt="linkedin" />
-    </a>
-  </li>
-   
-  <li class="mr-4 w-6 h-6">
-    <a href="" target="_blank" rel="noopener">
-      <img src="/icons/twitter.svg" alt="twitter" />
-    </a>
-  </li>
-   
-  <li class="mr-4 w-6 h-6">
-    <a href="" target="_blank" rel="noopener">
-      <img src="/icons/instagram.svg" alt="instagram" />
-    </a>
-  </li>
-   
-  <li class="mr-4 w-6 h-6">
-    <a href="" target="_blank" rel="noopener">
-      <img src="/icons/youtube.svg" alt="youtube" />
-    </a>
-  </li>
-  
-</ul>
-<ul class="py-8">
-  
-   
-   
-  <li class="odd:bg-gray-100 even:bg-white hover:bg-gray-50 transition-colors">
-    <a
-      href="/2024/03/12/hello-world/"
-      class="group flex items-center justify-between py-4 px-2"
+      <div class="mx-auto max-w-3xl"><div class="py-8 post">
+  <h1 class="text-3xl font-semibold">name</h1>
+  <article class="post-content"><p>Hello world，Test！！</p>
+</article>
+  <div class="flex items-center justify-between text-sm">
+    
+    <span class="flex items-center">
+       <a href="/tags/%E5%BC%80%E5%A7%8B/" title="#开始" class="mr-2 text-gray-500">#开始</a>  <a href="/tags/%E6%97%A5%E5%BF%97/" title="#日志" class="mr-2 text-gray-500">#日志</a> 
+    </span>
+    
+    <span class="text-gray-500"
+      >2016-04-06</span
     >
-      <span class="group-hover:text-orange-500">Hello World</span>
-      <span class="text-sm">Mar 12th 2024</span>
-    </a>
-  </li>
-  
-  <li class="odd:bg-gray-100 even:bg-white hover:bg-gray-50 transition-colors">
-    <a
-      href="/%EF%BC%88url%E4%B8%AD%E6%98%BE%E7%A4%BA%E7%9A%84%E6%A0%87%E9%A2%98%EF%BC%89"
-      class="group flex items-center justify-between py-4 px-2"
-    >
-      <span class="group-hover:text-orange-500">name</span>
-      <span class="text-sm">Apr 6th 2016</span>
-    </a>
-  </li>
-  
-</ul>
+  </div>
+</div>
 </div>
     </main>
     <footer class="absolute bottom-2 left-0 right-0">
